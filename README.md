@@ -5,4 +5,4 @@ A pretrained CNN model h5 file is stored in `models` directory. The CNN model us
 OpenCV HaarCascades was used to detect faces and then send it to CNN model to classify the expression.
 Run the `Emotional` jupyter notebook to see it in action.
 
-> Note: To train your very own CNN model for this project checkout my [Kaggel-Emotion](https://github.com/mohityogesh44/Kaggle-Emotion) repository.
+> Note: To train your very own CNN model for this project checkout my [Kaggle-Emotion](https://github.com/mohityogesh44/Kaggle-Emotion) repository.
